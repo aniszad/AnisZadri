@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AnisZadri
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning app developement
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me aniszadri3@gmail.com
 
 <!---
