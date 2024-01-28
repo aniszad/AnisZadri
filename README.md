@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AnisZadri
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning app developement
-- 📫 How to reach me aniszadri3@gmail.com
+- 👀 I'm an Android developer and an aspiring data scientist
+- 📫 How to reach me aniszad46@gmail.com
 
 <!---
 AnisZadri/AnisZadri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
